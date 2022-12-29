@@ -1,0 +1,9 @@
+:root {
+  --primary-font: "Inconsolata", sans-serif;
+  --secondary-font: "Space Mono", sans-serif;
+  --terciary-font: "Montserrat", sans-serif;
+  --dark-color: #333333;
+  --light-color: #ffffff;
+  --dark-gray-color: #4f4f4f;
+  --light-gray-color: #bdbdbd;
+}

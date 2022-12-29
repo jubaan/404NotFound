@@ -1,0 +1,8 @@
+.main__paragraph {
+  font-family: var(--secondary-font);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: -0.035em;
+}

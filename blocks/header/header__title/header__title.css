@@ -1,0 +1,9 @@
+.header__title {
+  font-family: var(--primary-font);
+  color: var(--dark-color);
+  line-height: 25.18px;
+  font-weight: 700;
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: -0.2rem;
+}

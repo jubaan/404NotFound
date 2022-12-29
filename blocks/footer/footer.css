@@ -1,0 +1,19 @@
+.footer {
+  max-width: 87%;
+  width: 100%;
+  position: fixed;
+  bottom: 24px;
+  margin: 0 auto;
+  text-align: center;
+  color: var(--light-gray-color);
+  font-family: var(--terciary-font);
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.footer__username {
+  text-decoration: underline;
+  font-weight: 700;
+}

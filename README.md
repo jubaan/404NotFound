@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Devchallenges - 404 Not Found</h1>
+<h1 align="center">{Your project name}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="chrome-extension://jaekigmcljkkalnicnjoafgfjoefkpeg/suspended.html#ttl=jubaan%2F404NotFound&pos=0&uri=https://github.com/jubaan/404NotFound">
+    <a href="https://{your-url-to-the-solution}">
       Solution
     </a>
     <span> | </span>
@@ -58,6 +58,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+
 
 ## Acknowledgements
 

@@ -1,0 +1,9 @@
+.main__title {
+  font-family: var(--secondary-font);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 71px;
+  letter-spacing: -0.055em;
+  margin-bottom: 30px;
+}
